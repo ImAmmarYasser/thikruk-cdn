@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "muezzins": [
     {
       "id": "minshawi",
@@ -766,6 +766,15 @@
   ],
   "dua_voices": [
     {
+      "id": "shaarawi",
+      "name_ar": "محمد متولي الشعراوي",
+      "name_en": "Mohamed Metwally Al-Shaarawy",
+      "file": {
+        "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/dua/shaarawi.mp3",
+        "size": 469368
+      }
+    },
+    {
       "id": "afasy",
       "name_ar": "مشاري العفاسي",
       "name_en": "Mishary Alafasy",
@@ -781,15 +790,6 @@
       "file": {
         "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/dua/haram.mp3",
         "size": 278404
-      }
-    },
-    {
-      "id": "shaarawi",
-      "name_ar": "محمد متولي الشعراوي",
-      "name_en": "Mohamed Metwally Al-Shaarawy",
-      "file": {
-        "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/dua/shaarawi.mp3",
-        "size": 469368
       }
     }
   ]
