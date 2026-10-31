@@ -6,7 +6,8 @@ Files the Thikruk app downloads on demand, served straight from GitHub:
 
 ## adhan/
 
-- `catalog.json`: the list the app reads. Fields per muezzin: `id`, `name_ar`, `name_en`, `country`, `source`,
+- `catalog.json`: the list the app reads. `version`: raise it with every change (the app keeps the newer of
+  this and its bundled copy). Fields per muezzin: `id`, `name_ar`, `name_en`, `country`, `source`,
   and any of `full`, `takbeer`, `fajr_full`, `fajr_takbeer` (MP3, for Android), `ios_sound`, `fajr_ios_sound`
   (CAF, 30 seconds at most, as iOS notification sounds). Each file is `{ "url": ..., "size": bytes }`.
   `dua_voices`: `id`, `name_ar`, `name_en`, `source`, `file`.
