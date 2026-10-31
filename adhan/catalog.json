@@ -1,0 +1,225 @@
+{
+  "muezzins": [
+    {
+      "id": "tobar",
+      "name_ar": "نصر الدين طوبار",
+      "name_en": "Nasser El-Din Tobar",
+      "country": "مصر",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/tobar/takbeer.mp3",
+        "size": 433142
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/tobar/takbeer.caf",
+        "size": 320829
+      }
+    },
+    {
+      "id": "minshawi",
+      "name_ar": "محمد صديق المنشاوي",
+      "name_en": "Mohamed Siddiq El-Minshawi",
+      "country": "مصر",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/minshawi/takbeer.mp3",
+        "size": 577338
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/minshawi/takbeer.caf",
+        "size": 435876
+      }
+    },
+    {
+      "id": "hosary",
+      "name_ar": "محمود خليل الحصري",
+      "name_en": "Mahmoud Khalil Al-Husary",
+      "country": "مصر",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/hosary/takbeer.mp3",
+        "size": 209292
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/hosary/takbeer.caf",
+        "size": 82803
+      }
+    },
+    {
+      "id": "abdulbasit",
+      "name_ar": "عبد الباسط عبد الصمد",
+      "name_en": "Abdel-Basit Abdel-Samad",
+      "country": "مصر",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/abdulbasit/takbeer.mp3",
+        "size": 433201
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/abdulbasit/takbeer.caf",
+        "size": 174683
+      }
+    },
+    {
+      "id": "rifaat",
+      "name_ar": "محمد رفعت",
+      "name_en": "Mohamed Rifaat",
+      "country": "مصر",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/rifaat/takbeer.mp3",
+        "size": 401416
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/rifaat/takbeer.caf",
+        "size": 172702
+      }
+    },
+    {
+      "id": "nuayna",
+      "name_ar": "أحمد النعينع",
+      "name_en": "Ahmad Al-Nuayna",
+      "country": "مصر",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/nuayna/takbeer.mp3",
+        "size": 401420
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/nuayna/takbeer.caf",
+        "size": 157430
+      }
+    },
+    {
+      "id": "classic",
+      "name_ar": "أذان مكة المكرمة",
+      "name_en": "Makkah Al-Mukarramah",
+      "country": "السعودية",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/classic/takbeer.mp3",
+        "size": 433173
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/classic/takbeer.caf",
+        "size": 174804
+      }
+    },
+    {
+      "id": "afasi",
+      "name_ar": "مشاري بن راشد العفاسي",
+      "name_en": "Mishary Rashid Al-Afasi",
+      "country": "الكويت",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/afasi/takbeer.mp3",
+        "size": 593372
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/afasi/takbeer.caf",
+        "size": 532914
+      }
+    },
+    {
+      "id": "qatami",
+      "name_ar": "ناصر القطامي",
+      "name_en": "Nasser Al-Qatami",
+      "country": "السعودية",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/qatami/takbeer.mp3",
+        "size": 417395
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/qatami/takbeer.caf",
+        "size": 412464
+      }
+    },
+    {
+      "id": "zahrani",
+      "name_ar": "منصور الزهراني",
+      "name_en": "Mansoor Az-Zahrani",
+      "country": "السعودية",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/zahrani/takbeer.mp3",
+        "size": 353501
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/zahrani/takbeer.caf",
+        "size": 352220
+      }
+    },
+    {
+      "id": "malki",
+      "name_ar": "حمدان المالكي",
+      "name_en": "Hamdan Al-Malki",
+      "country": "السعودية",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/malki/takbeer.mp3",
+        "size": 609244
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/malki/takbeer.caf",
+        "size": 475760
+      }
+    },
+    {
+      "id": "arkani",
+      "name_ar": "إبراهيم الأركاني",
+      "name_en": "Ibrahim Al-Arkani",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/arkani/takbeer.mp3",
+        "size": 561164
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/arkani/takbeer.caf",
+        "size": 455965
+      }
+    },
+    {
+      "id": "hamathani",
+      "name_ar": "ماجد الهمذاني",
+      "name_en": "Majed Al-Hamathani",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/hamathani/takbeer.mp3",
+        "size": 465516
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/hamathani/takbeer.caf",
+        "size": 430536
+      }
+    },
+    {
+      "id": "deghreri",
+      "name_ar": "حماد الدغريري",
+      "name_en": "Hammad Al-Deghreri",
+      "country": "السعودية",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/deghreri/takbeer.mp3",
+        "size": 449205
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/deghreri/takbeer.caf",
+        "size": 445985
+      }
+    },
+    {
+      "id": "malek",
+      "name_ar": "مالك شيبة",
+      "name_en": "Malek Chebae",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/malek/takbeer.mp3",
+        "size": 561246
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/malek/takbeer.caf",
+        "size": 448029
+      }
+    },
+    {
+      "id": "khatba",
+      "name_ar": "صهيب خاطبة",
+      "name_en": "Suhaib Khatba",
+      "takbeer": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/khatba/takbeer.mp3",
+        "size": 545205
+      },
+      "ios_sound": {
+        "url": "https://cdn.jsdelivr.net/gh/ImAmmarYasser/thikruk-cdn@main/adhan/khatba/takbeer.caf",
+        "size": 417163
+      }
+    }
+  ],
+  "dua_voices": []
+}
