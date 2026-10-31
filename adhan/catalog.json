@@ -1,6 +1,35 @@
 {
-  "version": 4,
+  "version": 5,
   "muezzins": [
+    {
+      "id": "tobar",
+      "name_ar": "نصر الدين طوبار",
+      "name_en": "Nasr El-Din Tobar",
+      "full": {
+        "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/tobar/full.mp3",
+        "size": 4200115
+      },
+      "takbeer": {
+        "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/tobar/takbeer.mp3",
+        "size": 448096
+      },
+      "ios_sound": {
+        "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/tobar/takbeer.caf",
+        "size": 658460
+      },
+      "fajr_full": {
+        "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/tobar/fajr_full.mp3",
+        "size": 4615149
+      },
+      "fajr_takbeer": {
+        "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/tobar/fajr_takbeer.mp3",
+        "size": 456455
+      },
+      "fajr_ios_sound": {
+        "url": "https://raw.githubusercontent.com/ImAmmarYasser/thikruk-cdn/main/adhan/tobar/fajr_takbeer.caf",
+        "size": 671108
+      }
+    },
     {
       "id": "minshawi",
       "name_ar": "محمد صديق المنشاوي",
